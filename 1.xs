@@ -19,7 +19,7 @@ var[err]
 	
 	::add loopbody
 	
-    go[loop]
+	go[loop]
 
 ::add commands
 
